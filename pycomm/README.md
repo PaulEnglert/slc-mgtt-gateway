@@ -1,0 +1,1 @@
+This is "pycomm==1.0.8" with workaround fixing the pid to be always ushort, see `cip_base.py`
